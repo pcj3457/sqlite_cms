@@ -1,0 +1,8 @@
+@charset "gb2312";
+/* CSS Document */
+
+#form1 #editperson table tr td #idinfo {
+	color: #C00;
+	position: absolute;
+	float: right;
+}

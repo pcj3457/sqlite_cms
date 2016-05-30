@@ -1,0 +1,267 @@
+
+html, body {
+	color: #000;
+	background-color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-align: center;
+	width: 100%;
+	padding: 0;
+	margin: 0 auto 20px auto;
+}
+A{TEXT-DECORATION: none;}
+A:link {font-size:12px;color: #000000;}
+A:visited {font-size:12px;color: #000000}
+A:active {font-size:12px;color: #000000}
+A:hover{font-size:12px;COLOR: #FF0000;position: relative; right: 0px; top: 1px}
+
+strong, b {
+	font-weight: bold !important;
+}
+em, i {
+	font-style: italic !important;
+}
+blockquote, indent {
+	margin-left: 15px !important;
+}
+
+h2 {
+	font-weight:bold;
+	font-size: 170%;
+	margin: 0 0 10px 0;
+}
+
+h3 {
+	font-weight:bold;
+	font-size: 150%;
+	margin: 0 0 10px 0;
+}
+h4 {
+	font-weight:bold;
+	font-size: 130%;
+	margin: 0 0 3px 0;
+}
+h5 {
+	font-weight:bold;
+	font-size: 110%;
+	font-weight:bold;
+	margin: 0 0 3px 0;
+}
+
+ul li {
+	padding: 0;
+	margin: 0;
+}
+
+#mainContentFrame ul li {
+	margin: 0;
+	padding: 0 0 0 3em;
+	list-style-type: none;
+	background: transparent url('../img/bul_triangle.gif') no-repeat scroll 13px 0.5em;
+}
+#mainContentFrame ol li {
+	margin: 0 0 0 3em;
+	padding: 0;
+	list-style-type: decimal;
+}
+#mainContentFrame ul.square li {
+	margin: 0;
+	padding: 0 0 0 10px;
+	list-style-type: none;
+	background: transparent url('../img/ico_list_square.gif') no-repeat scroll 0px 0.5em;
+}
+#mainContentFrame ol.number li {
+	margin: 0 0 0 3em;
+	padding: 0;
+	list-style-type: decimal;
+}
+
+#mainContentFrame ul.disc {
+	padding: 0 0 0 2em;
+}
+#mainContentFrame ul.disc li {
+	list-style-type: disc;
+	background: none;
+}
+#mainContentFrame ul.circle {
+	padding: 0 0 0 2em;
+}
+#mainContentFrame ul.circle li {
+	list-style-type: circle;
+	background: none;
+}
+#mainContentFrame ul.noBullet li{
+	list-style-type: none;
+	background: url();
+	margin: 0;
+	padding: 0 0 0 0;
+	list-style-type: none;
+}
+
+p {
+	margin: 0 0 13px 0;
+	/*
+	text-align: justify;
+	*/
+	/* min-height: 1em; */
+}
+/*
+* html p {
+	height: 1em;
+}
+*/
+.valignMid  {
+	vertical-align:middle;
+}
+
+a {
+	color: #0552A2;
+	text-decoration:underline;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration:underline;
+}
+/*
+img {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	vertical-align: middle;
+}
+*/
+.butMargin {
+	vertical-align: text-bottom;
+}
+
+fieldset{
+	border: 1px solid #B2B2B2;
+	padding: 4px;
+	margin: 0 10px 15px 0;
+}
+fieldset legend{
+	font-size:11px;
+	font-weight: bold;
+}
+.legendPadding {
+	display:inline;
+}
+.legendPadding .butMargin {
+	vertical-align:text-bottom;
+
+}
+
+/* *** Commonly used CSS *** */
+.clearer {	/* span the whole bottom width */
+	clear: both;
+	display: block;
+	height: 1px;
+	margin-top: -1px;
+	font-size: 1px;
+	line-height: 1px;
+}
+
+.float_left {
+	float: left;
+	clear: none;
+}
+.float_right {
+	float: right;
+	clear: none;
+}
+.align_left {
+	text-align: left;
+}
+.align_right {
+	text-align: right;
+}
+.align_center {
+	text-align: center;
+}
+.align_justify {
+	text-align: justify;
+}
+
+strong {
+	font-weight: bold;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.underline {
+	text-decoration: underline;
+}
+.bordertop {
+	border-top: 1px solid;
+}
+.borderbottom {
+	border-bottom: 1px solid;
+}
+.borderleft {
+	border-left: 1px solid;
+}
+.borderright {
+	border-right: 1px solid;
+}
+
+.redout {
+	color: #FF0000;
+}
+.grayout {
+	color: #CCCCCC;
+}
+.gray2out {
+	color: #666666;
+}
+
+.hide {
+	display: none;
+}
+.show {
+	display: block;
+}
+
+.nopadding {
+	padding: 0 !important;
+}
+.nomargin {
+	margin: 0 !important;
+}
+
+.indent {
+	margin-left: 15px;
+}
+
+
+/* ********** Test Borders ********** */
+
+.test1 {
+	border: 1px solid #0000ff;
+}
+.test2 {
+	border: 1px dashed #00ff00;
+}
+.test3 {
+	border: 1px dotted #0000ff;
+}
+.test4 {
+	border: 1px dashed #ff0000;
+}
+.test5 {
+	border: 1px dotted #ff0000;
+}
+
+.noBorder  {
+	border: 0px solid #FFF;
+	background-image: none;
+	vertical-align: middle
+}
+.noBorder  input {
+	border: 0px solid #FFF;
+	background-image: none;
+	vertical-align: middle
+}
+

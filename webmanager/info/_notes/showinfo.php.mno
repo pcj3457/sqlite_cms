@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_wqxx" value="name:shuliang;datatype:int" />
+	<infoitem key="UD_upnews" value="name:newsshuliang;datatype:int" />
+</info>

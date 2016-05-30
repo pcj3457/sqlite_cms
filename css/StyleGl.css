@@ -1,0 +1,189 @@
+BODY {
+	BORDER-RIGHT: #e8c500 2px solid; BORDER-TOP: #e8c500 2px solid; MARGIN: 0px; BORDER-LEFT: #e8c500 2px solid; BORDER-BOTTOM: #e8c500 2px solid; BACKGROUND-COLOR: #ffffff;SCROLLBAR-FACE-COLOR:#e8c500
+}
+TABLE {
+	FONT-SIZE: 13px; LINE-HEIGHT: 18px; LETTER-SPACING: 0px;BORDER-LEFT-COLOR: lightgrey; BORDER-BOTTOM-COLOR: lightgrey;  BORDER-TOP-COLOR: lightgrey; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: lightgrey; borderColor:lightgrey; cellSpacing:0;cellPadding:4 ;rules:all
+}
+
+INPUT {
+	BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; FONT-SIZE: 13px; BORDER-LEFT: #555555 1px solid; LINE-HEIGHT: 18px; BORDER-BOTTOM: #555555 1px solid; LETTER-SPACING: 0px
+}
+SELECT {
+	BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; FONT-SIZE: 13px; BORDER-LEFT: #555555 1px solid; LINE-HEIGHT: 18px; BORDER-BOTTOM: #555555 1px solid; LETTER-SPACING: 0px
+}
+.menu_text1 {
+	FONT-SIZE: 12px; FILTER: DropShadow(Color=white,OffX=1,OffY=1); FONT-FAMILY: "verdana"
+}
+.bount {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; BORDER-LEFT: #333333 1px solid; COLOR: #000000; BORDER-BOTTOM: #333333 1px solid; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #acdeff; TEXT-ALIGN: center
+}
+SELECT {
+	FONT-SIZE: 12px
+}
+.a15 {
+	LINE-HEIGHT: 160%; LETTER-SPACING: 0.03em
+}
+.none {
+	BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; FONT-SIZE: 12px; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 0px solid; BACKGROUND-COLOR: #99cc00
+}
+.topic {
+	FONT: 12px/13pt "宋体"; COLOR: #003366
+}
+.cn {
+	FONT: 14px/20px 宋体
+}
+.en {
+	FONT-SIZE: 9pt; COLOR: #ff6600; FONT-FAMILY: Arial
+}
+.fl {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff9933; FONT-FAMILY: 宋体
+}
+A:link {
+	COLOR: #003366; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #003366; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #336699; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.1:link {
+	COLOR: #003399; FONT-FAMILY: 宋体; TEXT-DECORATION: underline
+}
+A.1:visited {
+	COLOR: #003399; FONT-FAMILY: 宋体; TEXT-DECORATION: underline
+}
+A.1:active {
+	COLOR: #ff66ff; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A.1:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.6:link {
+	FONT-WEIGHT: bold; COLOR: #993300; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A.6:visited {
+	FONT-WEIGHT: bold; COLOR: #993300; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A.6:active {
+	FONT-WEIGHT: bold; COLOR: #ff66ff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.6:hover {
+	FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.2:link {
+	COLOR: #006699; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A.2:visited {
+	COLOR: #006699; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A.2:active {
+	COLOR: #ff66ff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.2:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.3:link {
+	COLOR: #ffffff; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A.3:visited {
+	COLOR: #ffffff; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A.3:active {
+	COLOR: #ff66ff; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A.3:unknown {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.4:link {
+	COLOR: #0066cc; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.4:visited {
+	COLOR: #0066cc; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.4:active {
+	COLOR: #ff66ff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.4:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.5:link {
+	COLOR: #003399; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A.5:visited {
+	COLOR: #003399; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A.5:active {
+	COLOR: #ff66ff; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A.5:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.7:link {
+	COLOR: #006666; FONT-FAMILY: 宋体; TEXT-DECORATION: underline
+}
+A.7:visited {
+	COLOR: #006666; FONT-FAMILY: 宋体; TEXT-DECORATION: underline
+}
+A.7:active {
+	COLOR: #ff66ff; FONT-FAMILY: 宋体; TEXT-DECORATION: underline
+}
+A.7:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+
+.pagebgcolor {
+	bgcolor: #F5F5F5
+}
+.biaodan {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; MARGIN-TOP: 1px; BORDER-LEFT: #000000 1px solid; COLOR: #000099; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid
+}
+.xian {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; BORDER-LEFT: #333333 1px solid; BORDER-BOTTOM: #333333 1px solid; BACKGROUND-COLOR: #ffffff
+}
+THEAD {
+	BORDER-RIGHT: #333333 thin dotted; PADDING-RIGHT: 1px; BORDER-TOP: #333333 thin dotted; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 1px; BORDER-LEFT: #333333 thin dotted; PADDING-TOP: 1px; BORDER-BOTTOM: #333333 thin dotted
+}
+.biaoge {
+	BORDER-RIGHT: #999999 1px; BORDER-TOP: #999999 1px; BORDER-LEFT: #999999 1px; CLIP: rect(auto auto auto 1px); BOTTOM: 1px; BORDER-BOTTOM: #999999 1px dotted
+}
+
+.flatbox2 {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: 1px solid; BACKGROUND-COLOR: #eef4ff; TEXT-ALIGN: right
+}
+.title_tr {
+	FONT-SIZE: 9pt; VERTICAL-ALIGN: middle; COLOR: #ffffff; HEIGHT: 20px; BACKGROUND-COLOR: #0e9ce3; TEXT-ALIGN: center
+}
+.search_tr {
+	FONT-SIZE: 9pt; VERTICAL-ALIGN: middle; COLOR: #006699; HEIGHT: 20px; BACKGROUND-COLOR: #a8ddfb; TEXT-ALIGN: center
+}
+.white_tr {
+	FONT-SIZE: 9pt; VERTICAL-ALIGN: middle; HEIGHT: 20px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.input {
+	BORDER-RIGHT: #000000 1px inset; BORDER-TOP: #000000 1px inset; FONT-SIZE: 12px; BACKGROUND: #ffffff; BORDER-LEFT: #000000 1px inset; BORDER-BOTTOM: #000000 1px inset
+}
+.button {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 12px; BACKGROUND: #1fb3e2; BORDER-LEFT: #333333 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #333333 1px solid; HEIGHT: 17px
+}
+.linedot {
+	BORDER-RIGHT: #999999 1px; BORDER-TOP: #999999 1px; FONT-SIZE: 12px; BORDER-LEFT: #999999 1px; BORDER-BOTTOM: #999999 1px dashed
+}
+.flatbox {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: #000000 1px solid; WIDTH: 100%; BORDER-BOTTOM: 1px solid; BACKGROUND-COLOR: #eef4ff; TEXT-ALIGN: right
+}
+.flatbox2 {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: 1px solid; BACKGROUND-COLOR: #eef4ff; TEXT-ALIGN: right
+}
+.smcDiv {
+	PADDING-RIGHT: 0px; OVERFLOW-Y: auto; PADDING-LEFT: 0px; OVERFLOW-X: auto; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 222px
+}
+.ExplainON {
+	FONT-SIZE: 9pt; MARGIN: 10%; CURSOR: hand; COLOR: #ff0000; FONT-FAMILY: Arial; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+.ExplainOFF {
+	FONT-SIZE: 9pt; MARGIN: 10%; CURSOR: hand; COLOR: #000000; FONT-FAMILY: Arial; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}

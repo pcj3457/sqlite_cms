@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kinds" value="name:KindID;datatype:int,name:KindTitle;datatype:string,name:ParentID;datatype:int,name:KindType;datatype:int" />
+	<infoitem key="UD_rs" value="name:NewsID;datatype:int,name:userid;datatype:int,name:KindID;datatype:int,name:title;datatype:string,name:content;datatype:blob,name:ImgUrl;datatype:string,name:IfShow;datatype:int,name:IfCheck;datatype:int,name:IfUsed;datatype:int,name:infoname;datatype:string,name:shangbao;datatype:int,name:indate;datatype:int,name:jishu;datatype:int,name:username;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kinds" value="name:KindID;datatype:int,name:KindTitle;datatype:string,name:ParentID;datatype:int" />
+</info>

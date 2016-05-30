@@ -1,0 +1,136 @@
+BODY {
+	BORDER-RIGHT: #e8c500 2px solid; BORDER-TOP: #e8c500 2px solid; MARGIN: 0px; BORDER-LEFT: #e8c500 2px solid; BORDER-BOTTOM: #e8c500 2px solid; BACKGROUND-COLOR: #ffffff;SCROLLBAR-FACE-COLOR:#e8c500
+}
+TABLE {
+	FONT-SIZE: 13px; LINE-HEIGHT: 18px; LETTER-SPACING: 0px;BORDER-LEFT-COLOR: lightgrey; BORDER-BOTTOM-COLOR: lightgrey;  BORDER-TOP-COLOR: lightgrey; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: lightgrey; borderColor:lightgrey; cellSpacing:0;cellPadding:4 ;rules:all
+}
+TD {
+	FONT-SIZE: 13px; LINE-HEIGHT: 18px; LETTER-SPACING: 0px
+}
+
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff3300; TEXT-DECORATION: none
+}
+.dateText {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: white
+}
+.windowTitle {
+	BORDER-RIGHT: white 1px solid; PADDING-RIGHT: 30px; BORDER-TOP: white 1px solid; PADDING-LEFT: 30px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BORDER-LEFT: white 1px solid; COLOR: #ffffff; LINE-HEIGHT: 30px; PADDING-TOP: 2px; BORDER-BOTTOM: white 1px solid; LETTER-SPACING: 3px; BACKGROUND-COLOR: #ff8000
+}
+.myDiv {
+	DISPLAY: none; FILTER: Shadow (Color=#333333, Direction=135); POSITION: absolute
+}
+.menuTd {
+	BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat
+}
+.menuname {
+	PADDING-LEFT: 11px; BACKGROUND: url(2_files/button_menu_00_02.jpg) no-repeat 0% 10%; COLOR: white; PADDING-TOP: 5px
+}
+.menuentry_1 {
+	BORDER-RIGHT: #d71a18 2px solid; BORDER-TOP: #d71a18 2px solid; BORDER-LEFT: #d71a18 2px solid; BORDER-BOTTOM: #d71a18 2px solid; BACKGROUND-COLOR: #f0f0f0
+}
+.menuentry_2 {
+	BORDER-RIGHT: #d71a18 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #d71a18 1px solid; PADDING-LEFT: 8px; BORDER-LEFT: #d71a18 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 4px; BORDER-BOTTOM: #d71a18 1px solid; WHITE-SPACE: nowrap
+}
+.leftBlank {
+	PADDING-LEFT: 3px
+}
+.topBlank1 {
+	PADDING-TOP: 5px
+}
+.topBlank2 {
+	PADDING-TOP: 10px
+}
+.loginInput {
+	BORDER-RIGHT: #ff9400 1px solid; BORDER-TOP: #ff9400 1px solid; BORDER-LEFT: #ff9400 1px solid; BORDER-BOTTOM: #ff9400 1px solid; HEIGHT: 21px
+}
+.indexInput {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 17px
+}
+.indexButton2 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; COLOR: #262a74; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 19px; BACKGROUND-COLOR: #dddddd
+}
+.indexButton1 {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BACKGROUND: url(../images/index_button1.gif); BORDER-LEFT: 0px; WIDTH: 60px; COLOR: #262a74; PADDING-TOP: 1px; BORDER-BOTTOM: 0px; HEIGHT: 17px
+}
+.indexBottom {
+	COLOR: #cdd4ea
+}
+.indexMenu1-1 {
+	FONT-SIZE: 13px; COLOR: #000000
+}
+.indexMenu1-2 {
+	COLOR: #777777
+}
+.indexTd1 {
+	PADDING-RIGHT: 3px
+}
+.indexTd2 {
+	PADDING-LEFT: 13px
+}
+.indexTable1 {
+	BORDER-RIGHT: #dee2ec 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: #dee2ec 1px solid; BORDER-BOTTOM: black 1px solid; BORDER-COLLAPSE: collapse
+}
+.indexTable2 {
+	BORDER-COLLAPSE: collapse
+}
+A.indexLink1:link {
+	COLOR: #ffffff; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+A.indexLink1:visited {
+	COLOR: #ffffff; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+A.indexLink1:active {
+	COLOR: #ffffff; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+A.indexLink1:hover {
+	COLOR: #444444; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+A.indexNews:link {
+	COLOR: #122aa3; TEXT-DECORATION: none
+}
+A.indexNews:visited {
+	COLOR: #122aa3; TEXT-DECORATION: none
+}
+A.indexNews:active {
+	COLOR: #122aa3; TEXT-DECORATION: none
+}
+A.indexNews:hover {
+	COLOR: #dd4900; TEXT-DECORATION: none
+}
+A.indexLink2:link {
+	COLOR: #cdd4ea; TEXT-DECORATION: none
+}
+A.indexLink2:visited {
+	COLOR: #cdd4ea; TEXT-DECORATION: none
+}
+A.indexLink2:active {
+	COLOR: #cdd4ea; TEXT-DECORATION: none
+}
+A.indexLink2:hover {
+	COLOR: #ffff00; TEXT-DECORATION: none
+}
+A.menuitem:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menuitem:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menuitem:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menuitem:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
